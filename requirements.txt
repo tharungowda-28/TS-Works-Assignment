@@ -1,0 +1,15 @@
+# Core libraries
+pandas==2.2.3
+numpy==2.1.1
+
+# Database interaction
+SQLAlchemy==2.0.36
+
+# API calls and HTTP requests
+requests==2.32.3
+
+# Optional: For displaying progress or logs neatly
+tqdm==4.66.4
+
+# Optional: for running SQL scripts easily in Python (used by run_queries.py)
+regex==2024.11.6
